@@ -94,4 +94,4 @@ git commit -a -m "message"
 
 ## Cheat Sheet par From Scratch
 
-![Cheat Sheet github](https://raw.githubusercontent.com/WitaminF/local-ethereum-blockchain/main/1-Git/IMG/GithubCheatSheet.png?token=GHSAT0AAAAAABTABI6TSWKYUDVOOA2264CMYS5YBRA)
+![Cheat Sheet github](https://raw.githubusercontent.com/WitaminF/1_GitHub/main/IMG/GithubCheatSheet.png)
